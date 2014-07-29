@@ -6,3 +6,6 @@ the mp3 files ID3 tags.
 
 Usage: mp3sorter.py "source directory" "target directory"
 
+TODO:
+add lookup to online database
+add album art automatically
